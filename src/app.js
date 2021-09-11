@@ -22,7 +22,7 @@ const insertingData =async () =>{
             {
                 name : "Ronald",
                 age : 20,
-                address :"30 Mazumnagar Society",
+                address :"30 Mazumnagar Society Society",
 
             }
         )
